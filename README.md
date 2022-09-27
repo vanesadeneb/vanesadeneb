@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vanesadeneb
-- 👀 I’m interested in Frontend and Deep Learning
-- 🌱 I’m currently learning deep learning and React
-- 📫 My email: vanessa_diesver@hotmail.com
+- 👀 I’m interested in Frontend
+- 🌱 I’m currently learning Javascript, CSS and HTML
+- 📫 My email: vvillarreal.saavedra@gmail.com
 
 <!---
 - 💞️ I’m looking to collaborate on ...
