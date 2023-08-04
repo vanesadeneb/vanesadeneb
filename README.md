@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vanesadeneb
 - 👀 I’m interested in Frontend
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React y Angular
 - 📫 My email: vvillarreal.saavedra@gmail.com
 
 <!---
